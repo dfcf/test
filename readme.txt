@@ -1,4 +1,8 @@
 1
 2
 3
-master
+<<<<<<< HEAD
+dev
+=======
+dev
+>>>>>>> dev
